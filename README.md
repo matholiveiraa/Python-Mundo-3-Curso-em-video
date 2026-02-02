@@ -1,7 +1,7 @@
 # Python-Mundo-3-Curso-em-video
 ##Repositório com exercícios e mini-projetos do curso Python Mundo 3, focado em consolidar conhecimentos intermediários de Python: listas, dicionários, funções, loops e manipulação de dados.
 
-Conteúdo
+## Conteúdo
 
 Listas e Dicionários: criação, manipulação, ordenação e iteração.
 
