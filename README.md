@@ -3,10 +3,10 @@
 
 ## Conteúdo
 
-Listas e Dicionários: criação, manipulação, ordenação e iteração.
+- Listas e Dicionários: criação, manipulação, ordenação e iteração.
 
-Funções: definição de funções, parâmetros, retorno, args e kwargs.
+- Funções: definição de funções, parâmetros, retorno, args e kwargs.
 
-Estruturas de Repetição: for, while e loops aninhados.
+- Estruturas de Repetição: for, while e loops aninhados.
 
-Mini Projetos: aplicações práticas para fixar os conceitos aprendidos.
+- Mini Projetos: aplicações práticas para fixar os conceitos aprendidos.
